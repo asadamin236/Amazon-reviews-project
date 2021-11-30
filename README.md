@@ -7,3 +7,5 @@ Amazon reviews sentiment analysis using nltk and train 4 machine learning models
 4) Multinomial Naive Bayes.
 # Dataset:
 Amazon-reviews.csv taken from kaggle...
+# Following the link of dataset:
+https://drive.google.com/file/d/1HjYc43opY-Lao_F2zQtx8LSMjGes3s7d/view?usp=sharing
